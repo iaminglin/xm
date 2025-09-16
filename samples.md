@@ -39,13 +39,17 @@
 
 #### Camera
 
-- 相机碰撞
+- camera collider
 
 <p align="center"> <img src="./videos/samples/camera-collider.gif?raw=true" width="512"/></p>
 
-- 相机震动
+- camera shake
 
 <p align="center"> <img src="./videos/samples/camera-shake.gif?raw=true" width="512"/></p>
+
+- camera stack
+
+<p align="center"> <img src="./videos/samples/camera-stack.gif?raw=true" width="512"/></p>
 
 #### Weapon
 - sway
